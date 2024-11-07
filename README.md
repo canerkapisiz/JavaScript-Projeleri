@@ -6,10 +6,11 @@
 ## Bu Depodaki Proje İçeriği
  * JavaScript ile Korona Günlerinde Evden mi Ofisten mi Çalışmalı Anketi Projesi
  * JavaScript ile Matematik Quiz Projesi
+ * JavaScript ile Yapılacaklar Listesi Uygulaması
     
     
 
 ## Website Görselleri
-Anket Projesi | Quiz Projesi | 
------------- | ------------ | 
-![](Photos/anketPhoto.png) | ![](Photos/matematikPhoto.png) | 
+Anket Projesi | Quiz Projesi | Yapılacaklar Listesi Projesi | 
+------------ | ------------ | ------------ | 
+![](Photos/anketPhoto.png) | ![](Photos/matematikPhoto.png) | ![](Photos/YapılacakPhoto.png) | 
